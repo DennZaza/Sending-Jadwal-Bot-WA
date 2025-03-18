@@ -1,0 +1,36 @@
+{
+    "Senin": [
+      { "pelajaran": "Bahasa Inggris", "waktu": "12:50 - 14:50" },
+      { "pelajaran": "Bahasa Indonesia", "waktu": "14:50 - 15:30" },
+      { "pelajaran": "ISTIRAHAT", "waktu": "15:30 - 15:45" },
+      { "pelajaran": "Bahasa Indonesia", "waktu": "15:45 - 16:25" },
+      { "pelajaran": "RPL", "waktu": "16:25 - 18:25" }
+    ],
+    "Selasa": [
+      { "pelajaran": "Agama dan Budi Pekerti", "waktu": "12:50 - 14:10" },
+      { "pelajaran": "RPL", "waktu": "14:10 - 15:30" },
+      { "pelajaran": "ISTIRAHAT", "waktu": "15:30 - 15:45" },
+      { "pelajaran": "Pendidikan Pancasila", "waktu": "15:45 - 16:25" },
+      { "pelajaran": "Sejarah Indonesia", "waktu": "16:25 - 17:05" },
+      { "pelajaran": "Matematika", "waktu": "17:05 - 18:25" }
+    ],
+    "Rabu": [
+      { "pelajaran": "RPL", "waktu": "12:50 - 15:30" },
+      { "pelajaran": "ISTIRAHAT", "waktu": "15:30 - 15:45" },
+      { "pelajaran": "Desain Grafis", "waktu": "15:45 - 17:05" },
+      { "pelajaran": "PKKWU", "waktu": "17:05 - 18:25" }
+    ],
+    "Kamis": [
+      { "pelajaran": "Bahasa Bali", "waktu": "12:50 - 14:10" },
+      { "pelajaran": "PKKWU", "waktu": "14:10 - 15:30" },
+      { "pelajaran": "ISTIRAHAT", "waktu": "15:30 - 15:45" },
+      { "pelajaran": "PKKWU", "waktu": "15:45 - 16:25" },
+      { "pelajaran": "RPL", "waktu": "16:25 - 18:25" }
+    ],
+    "Jumat": [
+      { "pelajaran": "P5", "waktu": "12:50 - 15:30" },
+      { "pelajaran": "ISTIRAHAT", "waktu": "15:30 - 15:45" },
+      { "pelajaran": "RPL", "waktu": "15:45 - 18:25" }
+    ]
+  }
+  
