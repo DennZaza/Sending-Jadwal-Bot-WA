@@ -48,7 +48,7 @@ async function startBot() {
     // 🔹 Kirim otomatis setiap pukul 07:00 pagi
     setInterval(async () => {
         const currentTime = moment().format("HH:mm");
-        if (currentTime === "07:00") {
+        if (currentTime === "12:00") {
             await checkSchedule(sock, groupId);
         }
     }, 60000);
