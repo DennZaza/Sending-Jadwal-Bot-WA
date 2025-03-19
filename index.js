@@ -41,9 +41,9 @@ async function startBot() {
     const groupId = "120363398189305663@g.us";
 
     // // 🔹 Jalankan setiap 1 menit
-    // setInterval(async () => {
-    //     await checkSchedule(sock, groupId);
-    // }, 30000);
+    setInterval(async () => {
+        await checkSchedule(sock, groupId);
+    }, 30000);
 
     // 🔹 Kirim otomatis setiap pukul 07:00 pagi
     setInterval(async () => {
